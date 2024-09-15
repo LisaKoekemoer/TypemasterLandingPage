@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TypemasterLandingPage/static/css/main.e65bafa9.css",
+    "main.js": "/TypemasterLandingPage/static/js/main.e8010ca1.js",
+    "static/js/453.eb7c7eba.chunk.js": "/TypemasterLandingPage/static/js/453.eb7c7eba.chunk.js",
+    "static/media/image-keyboard.jpg": "/TypemasterLandingPage/static/media/image-keyboard.8fd1b16e95a8d5678006.jpg",
+    "static/media/image-phone-and-keyboard.jpg": "/TypemasterLandingPage/static/media/image-phone-and-keyboard.fad0ac14edfa43268cd8.jpg",
+    "static/media/image-glass-and-keyboard.jpg": "/TypemasterLandingPage/static/media/image-glass-and-keyboard.dd62168e4e40ffbef746.jpg",
+    "index.html": "/TypemasterLandingPage/index.html",
+    "static/media/icon-light.svg": "/TypemasterLandingPage/static/media/icon-light.762c82d2ae2c9bc79ce71c9f00de0cc8.svg",
+    "static/media/logo.svg": "/TypemasterLandingPage/static/media/logo.59dff8e2243f1e55c5208e06915d53f4.svg",
+    "static/media/icon-bluetooth.svg": "/TypemasterLandingPage/static/media/icon-bluetooth.671d67b852a91e7e522e30ff2b9b295e.svg",
+    "static/media/icon-battery.svg": "/TypemasterLandingPage/static/media/icon-battery.aac4e71bb65a6278a439ad326302bf95.svg",
+    "static/media/icon-compatible.svg": "/TypemasterLandingPage/static/media/icon-compatible.460c5f05e1b3bca7bc6adb96bb11ac89.svg",
+    "main.e65bafa9.css.map": "/TypemasterLandingPage/static/css/main.e65bafa9.css.map",
+    "main.e8010ca1.js.map": "/TypemasterLandingPage/static/js/main.e8010ca1.js.map",
+    "453.eb7c7eba.chunk.js.map": "/TypemasterLandingPage/static/js/453.eb7c7eba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e65bafa9.css",
+    "static/js/main.e8010ca1.js"
+  ]
+}
